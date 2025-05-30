@@ -107,6 +107,8 @@ Here's a glimpse of the technologies I work with:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Navindu-Kavishka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Navindu-Kavishka" alt="Navindu-Kavishka" /></a></p>
+
 ---
 
 ### ✍️ Random Dev Quote
